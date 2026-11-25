@@ -3,7 +3,7 @@
 Third-year B.Tech Electrical and Electronics Engineering student at **VIT Vellore** (CGPA: 9.1), focused on custom multi-layer PCB design, bare-metal embedded firmware, power electronics, and aerospace avionics.
 
 - **Avionics & Rocketry:** Electronics Department Member at **Team Sammard** — designing flight avionics PCBs, LoRa telemetry ground stations, and recovery electronics.
-- **Industry Experience:** Former Engineering Intern at **Hindustan Aeronautics Limited (HAL), MCSRDC Division** — worked on aircraft electrical power budgeting (MIL-E-7016F), navigation systems, and RIG simulation testing.
+- **Industry Experience:** Former Engineering Intern at **Hindustan Aeronautics Limited (HAL), MCSRDC Division** — worked on aircraft electrical power budgeting, navigation systems, and RIG simulation testing.
 - **Publication:** *Smart Transformer Health Monitoring System Using Multi-Parameter Sensing and Early Anomaly Detection*, IJIREEICE (Oct 2026).
 
 ---
